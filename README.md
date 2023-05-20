@@ -7,7 +7,6 @@
 
 
 
-
 This repository contains code and resources for predicting customer churn using machine learning algorithms. The goal is to identify customers who are likely to churn and take proactive measures to retain them.
 
 ## Table of Contents
