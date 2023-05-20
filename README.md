@@ -1,4 +1,10 @@
-# Customer Churn Prediction with Machine Learning
+# Customer Churn Prediction with Machine Learning 
+
+<div align='center'> 
+    <img src="https://drive.google.com/uc?export=view&id=1ow2RYUYrFUei55ZZu14jXzZWYxEkmjPZ"/>
+
+</div>
+
 
 This repository contains code and resources for predicting customer churn using machine learning algorithms. The goal is to identify customers who are likely to churn and take proactive measures to retain them.
 
